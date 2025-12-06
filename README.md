@@ -28,4 +28,4 @@ https://www.imagesharpenerai.pro/christmas-wallpaper/space
 
 ⸻
 
-This repo exists to make AI holiday artwork easier to find, download, and use across all devices.
+This repository is part of a broader effort to make high-quality AI wallpapers accessible across the web. Explore more styles and updates on the main site.
